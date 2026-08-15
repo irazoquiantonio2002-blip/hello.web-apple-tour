@@ -272,7 +272,7 @@
       var mensaje = (data.get('mensaje')||'').toString().trim();
 
       var lines = [
-        'Hola Apple Tours, quiero cotizar un viaje:',
+        'Hola Apple Tours Las Tijeras, quiero cotizar un viaje:',
         'Nombre: ' + nombre,
         'Teléfono: ' + telefono,
         'Destino deseado: ' + destino,
