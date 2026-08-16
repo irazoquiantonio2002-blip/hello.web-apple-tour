@@ -283,7 +283,7 @@
       ].filter(Boolean);
 
       var text = encodeURIComponent(lines.join('\n'));
-      var url = 'https://wa.me/524431194650?text=' + text;
+      var url = 'https://wa.me/524431299779?text=' + text;
       window.open(url, '_blank', 'noopener,noreferrer');
     });
   }
